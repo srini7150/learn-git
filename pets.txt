@@ -1,4 +1,2 @@
 1st pet: cat also
 2nd pet: cat
-3d pet: dog
-4th pet: lion
